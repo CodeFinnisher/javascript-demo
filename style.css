@@ -1,0 +1,15 @@
+/* Import Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+
+body {
+  font-family: 'Architects Daughter';
+  font-size: 20px;
+}
+
+.person {
+  background-color: rgb(221, 243, 187);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}

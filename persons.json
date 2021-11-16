@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "Jussi",
+    "lastName": "Hallman",
+    "age": 33
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Frank",
+    "age": 48
+  },
+  {
+    "firstName": "Stivan",
+    "lastName": "Mersho",
+    "age": 27
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Sutherby",
+    "age": 50
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Magnusson",
+    "age": 5
+  }
+]
